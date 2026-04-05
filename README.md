@@ -1,2 +1,2 @@
 # AUTO-RNC
-Automatiza o processo de criação de RNC
+Automatiza o processo de criação de RNC , RA
